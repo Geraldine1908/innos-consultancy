@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/innos-consultancy/static/css/main.01811d50.css",
+    "main.css": "/innos-consultancy/static/css/main.41124559.css",
     "main.js": "/innos-consultancy/static/js/main.31a43dfd.js",
     "static/js/488.5c1df10b.chunk.js": "/innos-consultancy/static/js/488.5c1df10b.chunk.js",
     "static/media/inno logo.jpeg": "/innos-consultancy/static/media/inno logo.910ffaecd8708e2f3c44.jpeg",
     "static/media/logo.svg": "/innos-consultancy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/innos-consultancy/index.html",
-    "main.01811d50.css.map": "/innos-consultancy/static/css/main.01811d50.css.map",
+    "main.41124559.css.map": "/innos-consultancy/static/css/main.41124559.css.map",
     "main.31a43dfd.js.map": "/innos-consultancy/static/js/main.31a43dfd.js.map",
     "488.5c1df10b.chunk.js.map": "/innos-consultancy/static/js/488.5c1df10b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01811d50.css",
+    "static/css/main.41124559.css",
     "static/js/main.31a43dfd.js"
   ]
 }
