@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://geraldine1908.github.io/innos-consultancy/sitemap.xml
