@@ -12,7 +12,7 @@ function Destinations() {
     { name: "Dubai", image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=400" },
   ];
  return(
-<section className="destinations">
+<section  id="destinations" className="destinations">
     <h2 className="section-title">Where Dreams Take Flight</h2>
 <p className="section-subtitle">Handpicked destinations to kickstart your journey.</p>
 <div className="destinations-grid">

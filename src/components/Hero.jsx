@@ -1,7 +1,7 @@
 import React from "react";
 function Hero(){
     return(
-        <section className="hero"> 
+        <section id="hero" className="hero"> 
         <div className="hero-shape shape-1"></div>
       <div className="hero-shape shape-2"></div>
         <div className="hero-left">

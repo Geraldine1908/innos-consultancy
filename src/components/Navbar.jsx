@@ -14,6 +14,7 @@ function Navbar(){
                    <li><a href="#destinations">Destinations</a></li>
                     <li><a href="#contact">Contact Us</a></li>
             </ul>
+            
         </nav>
     );
 }

@@ -203,3 +203,105 @@
   color: #1a1a2e;
   margin: 0;
 }
+.about {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.about-text {
+  font-size: 18px;
+  line-height: 1.7;
+  color: #444;
+  margin-bottom: 20px;
+}
+.yyyy{
+  font-size: 50px;
+  color:#222245;
+}
+.Services-services {
+  display:flex;
+ flex-direction:row;   /* allows wrapping into rows */
+  gap:100px;             /* spacing between cards */
+  justify-content: space-between;
+}
+.service {
+    flex: 1 1 calc(50% - 20px); 
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+section {
+  max-width: 1200px;       /* keeps all sections same width */
+  margin: 0 auto;          /* centers them on the page */
+  padding: 2rem;           /* consistent spacing inside */
+  min-height: 400px;       /* ensures equal height baseline */
+  display: flex;
+  flex-direction: column;  /* keeps content stacked neatly */
+  justify-content: center; /* vertically centers content */
+}
+.contact-section{
+display:grid;
+grid-template-columns: 1fr 1fr;
+gap:30px;
+
+}
+.contact-form {
+  display: flex;
+  flex-direction: column;   /* stacks inputs vertically */
+  gap: 15px;                /* space between each field */
+  max-width: 500px;         /* keeps form width consistent */
+}
+
+.contact-form input,
+.contact-form textarea,
+.contact-form button {
+  width: 100%;              /* each field stretches full width */
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+  margin-bottom:40px;
+}
+
+.contact-form button {
+  background: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background: #0056b3;
+}
+.cart{
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 16px;
+  box-shadow: 3px 2px 6px rgba(24, 22, 22, 0.1);
+  width:500px;
+  margin-bottom:22px;
+}
+.foot a {
+  list-style:none;
+  display: flex;
+  justify-content:flex-start;
+  gap: 24px;
+  padding: 0;
+  margin: 0;
+  color:white;
+  text-decoration:none;
+}
+.foot{
+  display:flex;
+  flex-direction:column;
+ background-color: #080b4ed3; 
+  padding: 20px;
+  text-align: center;
+}
+.foot-text{
+  color:white;
+  margin-top: 10px;
+}
